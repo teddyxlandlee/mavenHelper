@@ -1,0 +1,1 @@
+</url><layout>default</layout></repository></repositories><dependencies><dependency><groupId>
